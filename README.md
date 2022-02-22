@@ -1,10 +1,20 @@
 <p align="center">
-  <img height="160em" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlignY=40&section=header&text=Ryuna&fontSize=80" align = "center"/>
+  <img
+    width="80%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlignY=40&section=header&text=Ryuna&fontSize=80"
+    align="center"
+  />
 </p>
 
-<p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anottrx&theme=buefy&count_private=true&show_icons=true" align = "center"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&show_icons=true&locale=en&layout=compact&theme=buefy" align = "center"/>
+<p align="center" style="display: flex; flex-wrap: nowrap">
+  <img
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api?username=anottrx&theme=buefy&count_private=true&show_icons=true"
+  />
+  <img
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&show_icons=true&locale=en&layout=compact&theme=buefy"
+  />
 </p>
 
 <!-- 
