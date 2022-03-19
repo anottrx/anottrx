@@ -8,11 +8,11 @@
 
 <p align="center" style="display: flex; flex-wrap: nowrap">
   <img
-    width="40%"
+    width="42.5%"
     src="https://github-readme-stats.vercel.app/api?username=anottrx&theme=gotham&count_private=true&show_icons=true"
   />
   <img
-    width="39.5%"
+    width="35.5%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&show_icons=true&locale=en&layout=compact&theme=gotham"
   />
 </p>
