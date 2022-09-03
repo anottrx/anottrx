@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <img width="80%" src="https://github.com/anottrx/anottrx/blob/output/github-contribution-grid-snake.svg" />
+    <img width="82%" src="https://github.com/anottrx/anottrx/blob/output/github-contribution-grid-snake.svg" />
   </p>
 </div>
 
