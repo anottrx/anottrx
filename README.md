@@ -11,7 +11,7 @@
     <img width="42.5%"
       src="https://github-readme-stats.vercel.app/api?username=anottrx&theme=noctis_minimus&count_private=true&show_icons=true" />
     <img width="35.5%"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&show_icons=true&locale=en&layout=compact&theme=noctis_minimus" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&exclude_repo=react-study-project,follow-courses&layout=compact&theme=noctis_minimus" />
   </p>
 
   <p align="center">
