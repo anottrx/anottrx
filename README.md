@@ -7,13 +7,14 @@
 </p> -->
 
 <div>
+<!--
   <p align="center" style="display: flex; flex-wrap: nowrap">
     <img width="42.5%"
       src="https://github-readme-stats.vercel.app/api?username=anottrx&theme=noctis_minimus&count_private=true&show_icons=true" />
     <img width="35.5%"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&exclude_repo=react-study-project,follow-courses,JS-Array-Challenge&layout=compact&theme=noctis_minimus" />
   </p>
-
+-->
   <p align="center">
     <img width="82%" src="https://github.com/anottrx/anottrx/blob/output/github-contribution-grid-snake.svg" />
   </p>
