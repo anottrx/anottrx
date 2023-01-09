@@ -13,9 +13,9 @@
     <img width="35.5%"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=anottrx&exclude_repo=react-study-project,follow-courses,JS-Array-Challenge&layout=compact&theme=noctis_minimus" />
   </p>
-  <!-- <p align="center">
-    <img width="82%" src="https://github.com/anottrx/anottrx/blob/output/github-contribution-grid-snake.svg" />
-  </p> -->
+  <p align="center">
+    <img width="82%" src="https://github.com/anottrx/anottrx/blob/output/github-snake.svg" />
+  </p>
 </div>
 
 <!--
