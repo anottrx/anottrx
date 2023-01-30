@@ -27,7 +27,8 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
-            dist/github-snake.svg?color_snake=#a3c1f9&color_dots=#f9d5e5,#f7c4da,#f4b3d0,#f2a2c5,#C7AAB7
+            dist/github-snake.svg
+            dist/github-snake-temp.svg?color_snake=#a3c1f9&color_dots=#f9d5e5,#f7c4da,#f4b3d0,#f2a2c5,#C7AAB7
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7
 
